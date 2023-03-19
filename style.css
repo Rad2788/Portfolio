@@ -1,0 +1,19 @@
+h1{
+    color:darkred;
+    font-size:40px;
+    
+}
+h2{
+    color:darkred;
+    font-size:20px;
+    background-color:lightgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+tr{
+    background-color: chartreuse;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+body{
+    background-color:silver;
+}
